@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 myenv*.pkl
 *.csv
 myenv/
+=======
+myenv
+>>>>>>> c120603b4a286e3e410a7e421c80d09f9c01489e
