@@ -1,7 +1,36 @@
-<<<<<<< HEAD
+# Virtual environments
+myenv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model & data files (optional, remove if Render needs them)
+# *.pkl
+# *.csv
+
+# Environment variables
+.env<<<<<<< HEAD
 myenv*.pkl
 *.csv
 myenv/
 =======
 myenv
 >>>>>>> c120603b4a286e3e410a7e421c80d09f9c01489e
+# Virtual environments
+myenv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model & data files (optional, remove if Render needs them)
+# *.pkl
+# *.csv
+
+# Environment variables
+.env
